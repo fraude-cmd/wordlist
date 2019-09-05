@@ -125,7 +125,7 @@ else
 apt install php -y 
 clear
 cd Lib/
-echo "Bu Tool xBowtie Tarafından Kodlandı...." >> ok.txt
+echo "...." >> ok.txt
 cd ..
 bash tst.sh	
 fi
